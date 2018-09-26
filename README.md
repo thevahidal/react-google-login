@@ -1,4 +1,4 @@
-# React Google Login
+# React Native Google Login
 
 > A Google oAUth Sign-in / Log-in Component for React Native
 

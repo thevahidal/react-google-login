@@ -1,11 +1,11 @@
 # React Google Login
 
-> A Google oAUth Sign-in / Log-in Component for React
+> A Google oAUth Sign-in / Log-in Component for React Native
 
 
 ## Install
 ```
-npm install react-google-login
+npm install react-native-google-login
 
 ```
 ## How to use
